@@ -7,10 +7,8 @@
 
 
 
-- 🌱 I’m currently learning AI and Machine Learning **Career Essentials in Data Analysis by Microsoft and Linkedin,Google AI Essentials by Coursera**
-
-- 💬 Ask me about **Hi I'm Anjalo Varghese,a Btech Artificial intelligence and Data science student. Passionate about technology and its transformative impact with a keen interest in Artificial Intelligence, machine learning and data science. Committed to staying updated with the latest trends and advancements in the tech industry,with a drive to contribute to innovate solutions and projects**
-
+- 🌱 I’m currently learning Python and Tensorflow
+- 💬 Ask me about Machine Learning 
 - 📫 How to reach me **anjalovarghese4@gmail.com / anjalovarghese2027@ai.ajce.in**
 
 <h3 align="left">Connect with me:</h3>
