@@ -1,4 +1,4 @@
-[![MasterHead](https://firebasestorage.googleapis.com/v0/b/flexi-coding.appspot.com/o/dempgi7-520f8d5f-63d4-4453-8822-dbc149ae27f8.gif?alt=media&token=91c0c7b2-93c3-4029-b011-1a8703c5730d)](https://anjlovrghse.io)
+[![MasterHead](https://www.google.com/imgres?imgurl=https%3A%2F%2Fuser-images.githubusercontent.com%2F10498744%2F210012254-234538ff-d198-48aa-8964-37e6fd45d227.gif&tbnid=Gql8n76CdpGvJM&vet=1&imgrefurl=https%3A%2F%2Fgithub.com%2Fchardiwall&docid=aPMjc9HFxsRdgM&w=1920&h=732&hl=en-US&source=sh%2Fx%2Fim%2Fm1%2F4&kgs=b96cc512869acc04&shem=abme%2Ctrie)](https://anjlovrghse.io)
 <h1 align="center">Hi 👋, I'm Anjalo Varghese</h1>
 <h3 align="center">A passionate Machine Learning Engineer</h3>
 <h4 align="center">BTech AI and Data Science'27 @AJCE</h4>
