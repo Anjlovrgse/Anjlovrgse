@@ -1,4 +1,4 @@
-[![Banner](https://images.app.goo.gl/J6xJ2SW7mykxRafy8)](https://ww38.rishavchanda.io/)
+[![Banner](https://images.app.goo.gl/J6xJ2SW7mykxRafy8)](https://ww38.anjlovrghse.io/)
 <h1 align="center">Hi 👋, I'm Anjalo Varghese</h1>
 <h3 align="center">A passionate Machine Learning Engineer</h3>
 <h4 align="center">BTech AI and Data Science'27 @AJCE</h4>
