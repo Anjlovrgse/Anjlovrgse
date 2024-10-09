@@ -7,7 +7,7 @@
 
 
 
-- 🌱 I’m currently learning Python and Tensorflow
+- 🌱 I’m currently learning  Web development and Python 
 - 💬 Ask me about Machine Learning 
 - 📫 How to reach me **anjalovarghese4@gmail.com / anjalovarghese2027@ai.ajce.in**
 
