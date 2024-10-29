@@ -8,7 +8,7 @@
 
 
 - 🌱 I’m currently learning  Web development and Python 
-- 💬 Ask me about Machine Learning 
+- 💬 Ask me about Data science and Machine learning
 - 📫 How to reach me **anjalovarghese4@gmail.com / anjalovarghese2027@ai.ajce.in**
 
 <h3 align="left">Connect with me:</h3>
